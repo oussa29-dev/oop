@@ -7,7 +7,7 @@ public class Main {
         int b = Integer.parseInt(args[1]) ;
 
         Operandes operandes= new Operandes(a,b);
-
+//hey there
         operandes.difference();
         operandes.somme();
         operandes.moyenne();
