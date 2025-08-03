@@ -1,3 +1,4 @@
+package src.Exo_6;
 public class TestPoint {
 
     public static void main (String[] args  ){

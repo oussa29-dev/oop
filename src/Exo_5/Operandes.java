@@ -1,3 +1,5 @@
+
+package src.Exo_5;
 public class Operandes {
 
     private int i=0,j=0;

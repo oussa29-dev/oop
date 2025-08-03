@@ -1,3 +1,4 @@
+package src.Exo_6;
 class Point {
 
     private int x;

@@ -1,3 +1,5 @@
+package src.Exo_5;
+
 public class Operation {
 
     public static int somme(int i,int j){return i+j;}
